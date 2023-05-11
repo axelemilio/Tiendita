@@ -1,0 +1,52 @@
+.estilo1 {
+background: rgb(109, 213, 245);
+margin: 5px;
+font-size:20px;
+max-width: 2000px;
+}
+.estilo1 h1 {
+    color: white;
+ margin-left: 500px;
+}
+body {
+    background: rgb(4, 4, 116);
+}
+.estilo1 a {
+   text-decoration: none;}
+
+   .estilos2  nav{
+   
+    margin: 30px;
+   }
+   .estilos2 ul li {
+    list-style: none;
+   
+   }
+   .estilos2 ul li img {
+    border-radius:50px;
+    max-width:300px;
+    float: left;
+    margin-left:80px;
+   }
+   .estilo3 ul {
+list-style: none;
+margin: 25px;
+   }
+   .estilo3 ul li {
+    float: left;
+margin-left: 140px;
+   }
+   .estilo3 h2 {
+    max-width:300px;
+    font-size: 50px;
+    background-color: aqua;
+    border-radius: 25%;
+    padding:10px;
+   }
+   .estilo3 a {
+    text-decoration: none;
+   }
+   .estilo10 {
+  float: left;
+  
+   }
